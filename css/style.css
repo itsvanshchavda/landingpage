@@ -68,19 +68,16 @@ body {
 }
 
 .hero p {
-  /* color: white;
+  color: white;
   text-align: left;
   font-size: 1rem;
   line-height: 1rem;
   margin-left: 50px;
   align-self: flex-end;
   width: 55%;
-  line-height: 1.8; */
+  line-height: 1.8; 
 
-  max-width: 800px; /* Set a maximum width to control the paragraph's width */
-  font-size: 1rem;
-  text-align: left;
-  line-height: 1.8;
+
   
   
 }
